@@ -1,4 +1,4 @@
-## Windows Firewall Fule by DNS
+## Windows Firewall Rule by DNS
 
 Like MikroTik ROS address-list implementation, 
 this script getting domain name from FW Rule DisplayName, resolving and put IP adresses to RemoteAdress.
